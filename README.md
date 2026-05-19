@@ -63,7 +63,7 @@ This project captures face images, detects faces live using OpenCV, and stores a
 
 Install required libraries:
 
-```bash
+```
 pip install -r requirements.txt
 python secureface.py
 ```
